@@ -1,0 +1,13 @@
+{
+  "name": "music-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Music website for Render: serves the page and calls the VPS API with the API key kept server-side",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
